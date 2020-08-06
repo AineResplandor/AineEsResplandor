@@ -1029,3 +1029,17 @@ body:after {
         background-color: rgb(17, 117, 134);
         color: #fff;
       }
+
+
+      .evento{
+        margin-top: 70px;
+        text-align: center;
+        font-size: 40px;
+        -webkit-transform: rotate(-45deg);
+        -moz-transform: rotate(-45deg); 
+        -ms-transform: rotate(-45deg); 
+        -o-transform: rotate(-45deg); 
+        transform: rotate(-45deg); 
+        
+      
+      }
